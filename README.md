@@ -38,4 +38,4 @@ Katkıda bulunmak isteyenler için pull request'ler kabul edilir. Büyük deği�
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altındadır.
+Bu proje [MIT Lisansı](License) altındadır.
