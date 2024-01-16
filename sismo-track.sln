@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sismo-track", "sismo-track\sismo-track.csproj", "{59E051EF-E6FE-4FD2-BA6A-866CA5DA4961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E051EF-E6FE-4FD2-BA6A-866CA5DA4961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E051EF-E6FE-4FD2-BA6A-866CA5DA4961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E051EF-E6FE-4FD2-BA6A-866CA5DA4961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E051EF-E6FE-4FD2-BA6A-866CA5DA4961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF7EB186-7977-40BA-A543-AD66B925B71F}
+	EndGlobalSection
+EndGlobal
